@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="head">
+        <h1>NETAJI SUBHAS CHANDRA BOSE</h1>
+        <p><b>1897 - 1945</b></p>   
+    </div>
+
+    <div class="box">
+
+        
+        <div >
+            <img src="netaji"  class="image">
+        </div>
+
+       <div class="quote"></div>
+            <blockquote class="quote">
+                "Give me blood and I will
+                 give you Freedom."
+            </blockquote>
+        </div>
+
+    </div>
+
+    <div class="info">
+
+        <div class="about">
+            <p>
+                <h3 class="first">ABOUT:-</h3>
+                Netaji Subash Chandra Bose( <b>23 January 1897 – 18 August 1945</b>) was an <b>Indian nationalist</b>
+                whose defiance of <b>British authority in India</b> made him a hero among many Indians,
+                but his wartime alliances with <b>Nazi Germany and Imperial Japan </b>left a legacy vexed by
+                authoritarianism, anti-Semitism, and military failure.
+                The honorific <b> Netaji </b>(Hindi: "Respected Leader") was first applied to Bose in 
+                Germany in early 1942—by the Indian soldiers of the <i>Indische Legion</i> and by the German and Indian
+                officials in the <b>Special Bureau for India</b> in Berlin. It is now used throughout India.
+                Subhas Bose was born into wealth and privilege in a large <b>Bengali family in Orissa</b> during the British Raj.
+                The early recipient of an Anglocentric education,
+                he was sent after college to England to take the <b>Indian Civil Service examination.</b>
+                He succeeded with distinction in the vital first exam but demurred at taking the routine final exam,
+                citing nationalism to be a higher calling.Returning to India in 1921,
+                Bose joined the nationalist movement led by <b>Mahatma Gandhi</b>and the <b>Indian National Congress.</b>
+                He followed <b>Jawaharlal Nehru</b> to leadership in a group within the Congress
+                which was less keen on constitutional reform and more open to socialism.
+                Bose became Congress president in 1938.
+                After reelection in 1939, differences arose between him and the Congress leaders, including Gandhi, 
+                over the future federation of <b>British India and princely states</b>, but also because discomfort had 
+                grown among the Congress leadership over Bose's negotiable attitude to non-violence, 
+                and his plans for greater powers for himself.
+                After the large majority of the <b>Congress Working Committee</b> members resigned in protest,
+                Bose resigned as president and was eventually ousted from the party.
+            </p>
+
+        </div>
+
+        <div class="bio">
+            <h5 class="second">BOOKS WRITTEN ON NETAJI:-</h5>
+            <ul class="list">
+                <li><b>Beacon Across Asia:Biography of Subash Chandra Bosh</b> by Alexander Werth ::<i> Blackswan Publisher</i></li>
+                <li><b>His Majesty's Opponent</b> by Sugata Bose :: <i>Harvard University Press</i></li>
+                <li><b>Subhas Chandra Bose: a biography</b> by Gautam Chattopadhyaya::<i>National Council of Educational Research and Training</i></li>
+                <li><b>Subhas Chandra Bosh: his dream of Free India</b> by Raj Pruthi :: <i>Rajat Publication</i></li>
+                <li><b>Subhas Chandra Bose:facets of great patriot</b> by Netaji Institue of Asian Studies:: <i>Netaji Institute of Asian Studies</i></li>
+            </ul>
+        </div>
+
+        <div class="bio">
+            <h5 class="second">BOOKS WRITTEN BY NETAJI:-</h5>
+            <ul class="list">
+                <li><b>Famous Speeches and letters of Subhas Chandra Bose</b> by <i>Lion Press</i> in 1946.</li>
+                <li><b>Ideas of a Nation</b> by<i> Penguin Books Limited</i> in 2010.</li>
+                <li><b>Letters to Emilie Schenkl 1934-1942</b> by<i> Blackswan Publication</i> in 1994.</li>
+                <li><b>The Indian Struggle 1920-1942</b> by<i> Wishart & C0, Itlay</i> in 1942.</li>
+                <li><b>An Indian Pilgrim</b> by<i> Thacker Spink& Co.</i> in 1948.</li>
+
+
+            </ul>
+
+
+        </div>
+
+    </div>
+    
+</body>
+</html>
