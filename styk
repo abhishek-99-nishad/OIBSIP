@@ -1,0 +1,77 @@
+body{
+    margin: 30px;
+    position: relative;
+    text-align: center;
+    background-color: antiquewhite;
+
+}
+.head{
+    margin: 40px;
+    margin-top: 60px;
+    width: 900px;
+    height: 100px;
+    margin-left: 130px;
+    padding: 4px;
+    text-align: center;
+    color: black;
+    background-color: brown;
+
+}
+
+.box{
+    margin: 10px;
+}
+.image{
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 45px;  
+    border-style: solid; 
+}
+
+.quote{
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 2pc;
+    font-style: oblique;
+    font: bolder;
+    color: black;
+    background-color: brown;
+    width: 600px;
+    margin-left: 300px;
+
+}
+.about{
+    border-style: solid;
+    text-align: left;
+    padding: 20px;
+
+}
+.first{
+    background-color: brown;
+    color: black;
+    width: 900px;
+    height: 25px;
+    text-align: center;
+    margin-left: 150px;
+
+}
+.second{
+    background-color: brown;
+    color: black;
+    width: 900px;
+    height: 25px ;
+    margin: 50px;
+    padding-left: 20px;
+    padding-top: 5px;
+    font: bold;
+}
+.bio{
+    margin: 50px;
+    border-style: solid;
+}
+.list{
+    text-align: left;
+    padding-bottom: 25px;
+}
