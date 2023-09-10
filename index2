@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div class="screen">
+        <input type="text" class="display" id="box" placeholder="0">
+        <br>
+        <button class="operator" data-value="AC" onclick="clearDisplay()">AC</button>
+        <button class="operator" data-value="del" onclick="delDisplay()">del</button>
+        <button class="operator" data-value="%" onclick="onDisplay('%')">%</button>
+        <button class="operator" data-value="/" onclick="onDisplay('/')">/</button>
+        <br>
+        <button class="element" data-value="9" onclick="onDisplay('9')">9</button>
+        <button class="element" data-value="8" onclick="onDislpay('8')">8</button>
+        <button class="element" data-value="7" onclick="onDisplay('7')">7</button>
+        <button class="operator" data-value="*" onclick="onDisplay('*')">*</button>
+        <br>
+        <button class="element" data-value="6" onclick="onDisplay('6')">6</button>
+        <button class="element" data-value="5" onclick="onDisplay('5')">5</button>
+        <button class="element" data-value="4" onclick="onDisplay('4')">4</button>
+        <button class="operator" data-value="-" onclick="onDisplay('-')">-</button>
+        <br>
+        <button class="element" data-value="3" onclick="onDisplay('3')">3</button>
+        <button class="element" data-value="2" onclick="onDisplay('2')">2</button>
+        <button class="element" data-value="1" onclick="onDisplay('1')">1</button>
+        <button class="operator" data-value="+" onclick="onDisplay('+')">+</button>
+        <br>
+        <button class="element" data-value="00" onclick="onDislpay('00')">00</button>
+        <button class="element" data-value="0" onclick="onDisplay('0')">0</button>
+        <button class="operator" data-value="." onclick="onDisplay('.')">.</button>
+        <button class="operator" data-value="=" onclick="calculate()">=</button>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
